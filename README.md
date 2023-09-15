@@ -31,7 +31,7 @@ https://github.com/helenaponted/talenthub.git
 Open the repository in VS Code and write in terminal:
 
 ```bash
-composer init
+composer install
 ```
 
 
